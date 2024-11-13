@@ -13,7 +13,7 @@
         android:theme="@style/Theme.CambridgeDictionnary"
         tools:targetApi="31">
         <activity
-            android:name="com.leoh.dictionnary.MainActivity"
+            android:name="com.leoh.dictionary.example.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

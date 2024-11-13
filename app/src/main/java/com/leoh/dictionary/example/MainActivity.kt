@@ -1,4 +1,4 @@
-package com.leoh.dictionnary
+package com.leoh.dictionary.example
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
