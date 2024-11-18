@@ -34,6 +34,7 @@ android {
 
 dependencies {
 	implementation(libs.jsoup)
+	implementation(libs.gson)
 	testImplementation(libs.junit)
 	androidTestImplementation(libs.androidx.junit)
 	androidTestImplementation(libs.androidx.espresso.core)
